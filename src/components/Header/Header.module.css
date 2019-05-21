@@ -1,0 +1,15 @@
+.header {
+  padding: 25px;
+  height: 162px;
+  background: #36adee;
+  color: #223c47;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.header p {
+  font-size: 0.8rem;
+  font-weight: 200;
+}

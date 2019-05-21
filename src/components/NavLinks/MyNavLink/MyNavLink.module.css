@@ -1,0 +1,22 @@
+.MyNavLink {
+  display: block;
+  color: #fff;
+  background: #25272d;
+  /* min-width: 320px; */
+  padding: 25px 25px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+.MyNavLink:hover {
+  display: block;
+  color: #808491;
+  background: #2e313a;
+}
+.MyNavLink:active {
+  display: block;
+
+  background: #353944;
+}

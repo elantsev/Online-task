@@ -1,0 +1,20 @@
+.black {
+  color: #000;
+  font-size: 1rem;
+  margin: 5px;
+}
+.gray {
+  color: #a0abbd;
+  font-size: 1rem;
+  margin: 5px;
+}
+.section {
+  margin: 25px;
+  display: grid;
+  grid-template-columns: 180px 180px;
+}
+
+.gray:first-of-type {
+  grid-column: 1 / 3;
+  margin-bottom: 1rem;
+}
